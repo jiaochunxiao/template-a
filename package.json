@@ -1,5 +1,5 @@
 {
-  "name": "<%= projectName %>",
-  "author": "<%= author %>",
-  "description": "<%= description =>"
+  "name": "{{projectName}}",
+  "author": "{{author}}",
+  "description": "{{description =>}}"
 }
